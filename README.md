@@ -9,6 +9,14 @@ script `exercicio.py`, presente na raiz deste repositório, e trabalha com
 dois conceitos centrais de criptografia assimétrica: confidencialidade via
 cifragem RSA e autenticidade via assinatura digital.
 
+## Tecnologias utilizadas
+
+<p>
+  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="50"></a>&nbsp;&nbsp;
+  <a href="https://www.openssl.org/" title="OpenSSL"><img src="https://raw.githubusercontent.com/openssl/openssl/master/doc/images/openssl.svg" alt="OpenSSL" width="120"></a>
+</p>
+
+
 ## Como o exercício foi montado
 
 Cada aluno da turma recebeu um conjunto de arquivos gerados individualmente
@@ -78,10 +86,3 @@ Ao concluir este trabalho, entendi na prática a diferença entre cifrar e assin
 já que a chave pública e a chave privada assumem papéis opostos em cada operação. 
 Desse modo, percebi que decifrar um arquivo com a chave certa não é quebrar a criptografia, 
 mas sim aplicar corretamente o processo para o qual ela foi projetada. 
-
-## Tecnologias utilizadas
-
-<p>
-  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="50"></a>&nbsp;&nbsp;
-  <a href="https://www.openssl.org/" title="OpenSSL"><img src="https://raw.githubusercontent.com/openssl/openssl/master/doc/images/openssl.svg" alt="OpenSSL" width="120"></a>
-</p>
